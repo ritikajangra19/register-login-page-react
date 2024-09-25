@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import LoginForm from "./LoginForm";
 
 const MyForm = () => {
   const [formData, setFormData] = useState({
