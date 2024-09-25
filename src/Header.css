@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: #009c76;
+  padding: 10px 20px;
+  color: white;
+}
+
+.navbar-left {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  font-size: 30px;
+  margin-right: 15px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: normal;
+}
