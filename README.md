@@ -46,3 +46,5 @@ This project is a simple React application that implements a registration and lo
 
 **Vercel link:**
 https://registeration-login-page.vercel.app/
+
+
