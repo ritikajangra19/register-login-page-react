@@ -32,7 +32,7 @@ const MyForm = () => {
   }
 
   return (
-    <div className="max-w-md mx-auto p-8 bg-white shadow-md rounded-md mt-10 mb-6 border border-black">
+    <div className="max-w-md mx-auto p-8 bg-white shadow-md rounded-md mt-10 mb-6 border border-black md:mx-4 sm:mx-2">
       <h2 className="text-2xl font-semibold text-left mb-6">Register</h2>
       <form onSubmit={handleSubmit} className="space-y-4">
         <div className="form-group">
