@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "@fortawesome/fontawesome-free/css/all.min.css";
 
 const LoginForm = () => {
   const [loginData, setLoginData] = useState({
